@@ -1,0 +1,8 @@
+.container {
+    padding: 0;
+    margin: 50px;
+    height: 500px;
+    width: 500px;
+    background-color:#DCDCDC;
+    float: left;
+  }

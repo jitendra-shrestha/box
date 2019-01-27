@@ -1,0 +1,10 @@
+.box {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+  }
+  
+  .box-position-info {
+    margin: 50px;
+    float: left;
+  }
